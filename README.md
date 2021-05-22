@@ -1,3 +1,5 @@
+# A Modified K-Means Clustering based Steganographic Approach for Secure Communication of Encrypted Information
+
 Image steganography allows individuals to communicate securely and privately. We have implemented a method using this to securely send sensitive information without having to worry about any third-party attack. A combination of optimized cryptographic and Steganographic clustering techniques have been used. The optimization in both algorithms showed a significant improvement over the already existing algorithms. Thus this formed system not only provides a higher level of security with the use of a better version of AES but it also provides a considerably faster mechanism of hiding information onto images with the use of the modified K-Means algorithm. 
 
 The K-Means algorithm was found to perform almost 1.2 times faster than the standard K-Means algorithm. When comparing the avalanche effect with respect to the modified algorithm, it performed better than the standard AES algorithm by a margin of 2%.
